@@ -209,8 +209,8 @@ h1,h2,h3,h4,h5
 #home .btn
     {
         background: transparent;
-        border: 2px solid #ffffff;
-        color: #ffffff;
+        border: 2px solid #1e2761;
+        color: #1e2761;
         font-size: 16px;
         font-weight: bold;
         width: 180px;
@@ -272,12 +272,16 @@ h1,h2,h3,h4,h5
 /* start about */
 #about {
     background: #bbbbbb;
+    color: #1e2761;
 }
 #about h4
     {
         padding: 15px 0;
 		color: #D43F52;
     }
+#about h2, h3{
+    color: #1e2761;
+}
 #about .progress
     {
         border-radius: 4px;
@@ -294,7 +298,7 @@ h1,h2,h3,h4,h5
     }
 #about span
     {
-        color: #ffffff;
+        color: #1e2761;
         font-weight: bold;
         display: block;
         padding-bottom: 6px;
@@ -347,6 +351,7 @@ h1,h2,h3,h4,h5
 #experience
     {
         background: #bbbbbb;
+        color: #1e2761;
         text-align: center;
     }
 
@@ -363,6 +368,7 @@ h1,h2,h3,h4,h5
 
 #experience h2
     {
+        color: #1e2761;
         padding-bottom: 30px;
     }
 #experience .portfolio-thumb
