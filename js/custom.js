@@ -16,7 +16,7 @@ $(function()
 {
     new WOW().init();
     $(".rotate").textrotator({
-		speed: 800
+		speed: 1000
 	});
 });
 
