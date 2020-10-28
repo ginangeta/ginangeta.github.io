@@ -406,8 +406,8 @@ h1,h2,h3,h4,h5
 
 /* start contact */
 
-#contact{
-
+.text-white{
+    color: white;
 }
 #contact address
     {
