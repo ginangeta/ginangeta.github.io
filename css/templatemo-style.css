@@ -235,6 +235,7 @@ h1,h2,h3,h4,h5
 #work h2
     {
         text-align: center;
+        color: white;
     }
 
 #work .media
@@ -263,6 +264,7 @@ h1,h2,h3,h4,h5
     }
 #work .media .media-heading
     {
+        color: white;
         font-weight: 600;
         font-size: 20px;
         padding-bottom: 10px;
