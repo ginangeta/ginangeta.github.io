@@ -8,7 +8,7 @@ https://templatemo.com/tm-458-lavish
 
 body
 {
-    background: #bbbbbb;
+    background: #1e2761;
 	color: #eeeeee;
 	font-family: 'Raleway', sans-serif;
 	font-size: 16px;
@@ -229,7 +229,8 @@ h1,h2,h3,h4,h5
 /* start work */
 #work
     {
-        background: #bbbbbb;
+
+
     }
 #work h2
     {
@@ -269,6 +270,9 @@ h1,h2,h3,h4,h5
 /* end work */
 
 /* start about */
+#about {
+    background: #bbbbbb;
+}
 #about h4
     {
         padding: 15px 0;
@@ -305,7 +309,6 @@ h1,h2,h3,h4,h5
 /* start portfolio */
 #portfolio
     {
-        background: #bbbbbb;
         text-align: center;
     }
 #portfolio h2
@@ -392,6 +395,9 @@ h1,h2,h3,h4,h5
 
 /* start contact */
 
+#contact{
+
+}
 #contact address
     {
       padding-bottom: 18px;
@@ -446,6 +452,7 @@ h1,h2,h3,h4,h5
 /* start footer */
 footer
     {
+        background: #bbbbbb;
         border-top: 1px solid #090909;
         text-align: center;
         padding-top: 40px;
